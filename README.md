@@ -1,0 +1,1 @@
+This example demonstrates a common error in Ada when working with arrays.  The error arises from the incorrect use of a loop variable to directly access array elements. Ada requires explicit array indexing, and this example shows both the incorrect and the correct methods. The solution shows how to correct the array access, ensuring the index remains within the valid bounds.
